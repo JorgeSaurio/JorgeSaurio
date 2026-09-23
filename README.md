@@ -14,7 +14,6 @@
 
 <br>
 
-<img align="right" src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="380" alt="Coding GIF">
 
 - 🎓 **Educación:** Estudiante de Ingeniería en Informática en **Duoc UC** (Analista Programador).
 - 🏆 **Logros:** 1.ᵉʳ lugar Nacional, 3.ᵉʳ lugar Regional y **3.ᵉʳ lugar Global en la Huawei ICT Competition (Computing Track)** en Shenzhen, China.
